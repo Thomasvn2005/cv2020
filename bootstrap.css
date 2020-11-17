@@ -1,0 +1,45 @@
+body {
+  background-color: #ddf3f5;
+}
+
+.p {
+  background-color: #8cba51;
+  height: 700px;
+  width: auto;
+}
+
+.scaled {
+  transform: scale(0.35);
+  position: relative;
+  right: 340px;
+  bottom: 290px;
+}
+
+.scaled2 {
+  transform: scale(0.4);
+  position: absolute;
+  bottom: 300px;
+  left: 790px;
+}
+
+.scaled3 {
+  position: absolute;
+  left: 400px;
+  bottom: 10px;
+}
+
+h1 {
+  font-family: 'Goldman', cursive;
+  font-size: 3rem;
+  color: #f4f4f2;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 26%;
+  border-width: 27px;
+  color: #335d2d;
+}
+.imgfixed{
+  float: right;
+}
